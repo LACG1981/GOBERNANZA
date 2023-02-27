@@ -11,4 +11,12 @@ Identificación de los riesgos y amenazas cibernéticas: Esta fase implica la id
 
 1.4 La alineación del negocio en ciberseguridad también debe considerar la educación y concienciación de los empleados sobre la importancia de la ciberseguridad y la implicación de todas las partes interesadas en la implementación de la estrategia de ciberseguridad.
 
-1.5 En resumen, la alineación del negocio en ciberseguridad es un enfoque integral que asegura que la ciberseguridad sea parte de la planificación y la toma de decisiones del negocio, considerando los activos digitales críticos, los riesgos cibernéticos, las medidas de seguridad necesarias y la educación y concienciación de los empleados
+1.5 En resumen, la alineación del negocio en ciberseguridad es un enfoque integral que asegura que la ciberseguridad sea parte de la planificación y la toma de decisiones del negocio, considerando los activos digitales críticos, los riesgos cibernéticos, las medidas de seguridad necesarias y la educación y concienciación de los empleados.
+##El proceso de gestión de riesgos en ciberseguridad incluye las siguientes etapas:
+
+2.1 Identificación de los riesgos: La identificación de los riesgos cibernéticos implica la identificación de los activos digitales críticos de la organización, así como las amenazas y vulnerabilidades que podrían afectarlos. Esta etapa es importante para entender qué se necesita proteger y contra qué amenazas.
+
+2.2 Evaluación de los riesgos: La evaluación de los riesgos implica la determinación de la probabilidad y el impacto potencial de cada riesgo identificado. Esta etapa es importante para entender cuáles riesgos son más críticos y deben ser abordados primero.
+Tratamiento de los riesgos: El tratamiento de los riesgos implica la selección y aplicación de medidas de seguridad adecuadas para reducir los riesgos a un nivel aceptable. Esto puede incluir la implementación de controles técnicos, la educación y concienciación de los empleados, o la transferencia de riesgos a través de seguros.
+
+2.4 Monitoreo y revisión: El monitoreo y revisión constante del proceso de gestión de riesgos es esencial para asegurar que los riesgos cibernéticos sean identificados y tratados adecuadamente. Esto implica la revisión periódica de los riesgos, la evaluación de la eficacia de las medidas de seguridad implementadas y la actualización de la estrategia de ciberseguridad en función de los cambios en el entorno cibernético.
