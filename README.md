@@ -12,7 +12,8 @@ Identificación de los riesgos y amenazas cibernéticas: Esta fase implica la id
 1.4 La alineación del negocio en ciberseguridad también debe considerar la educación y concienciación de los empleados sobre la importancia de la ciberseguridad y la implicación de todas las partes interesadas en la implementación de la estrategia de ciberseguridad.
 
 1.5 En resumen, la alineación del negocio en ciberseguridad es un enfoque integral que asegura que la ciberseguridad sea parte de la planificación y la toma de decisiones del negocio, considerando los activos digitales críticos, los riesgos cibernéticos, las medidas de seguridad necesarias y la educación y concienciación de los empleados.
-##El proceso de gestión de riesgos en ciberseguridad incluye las siguientes etapas:
+
+## El proceso de gestión de riesgos en ciberseguridad incluye las siguientes etapas:
 
 2.1 Identificación de los riesgos: La identificación de los riesgos cibernéticos implica la identificación de los activos digitales críticos de la organización, así como las amenazas y vulnerabilidades que podrían afectarlos. Esta etapa es importante para entender qué se necesita proteger y contra qué amenazas.
 
