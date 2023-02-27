@@ -6,3 +6,9 @@ Identificación de los riesgos y amenazas cibernéticas: Esta fase implica la id
 1.1 La alineación del negocio en ciberseguridad implica la integración de la estrategia de ciberseguridad en la estrategia general del negocio, asegurando que la seguridad cibernética se convierta en un aspecto clave de la planificación y la toma de decisiones en la organización.
 
 1.2 Para lograr esta alineación, es importante que las estrategias de ciberseguridad estén diseñadas de forma coherente con los objetivos de negocio y los riesgos del negocio. Esto implica una comprensión clara de los activos digitales críticos de la organización y la identificación de los riesgos cibernéticos que puedan afectar a esos activos.
+
+1.3 Además, la alineación del negocio en ciberseguridad debe considerar la implementación de medidas de seguridad adecuadas, equilibrando el nivel de seguridad necesario para proteger los activos digitales con la necesidad de mantener una operación fluida del negocio. Esto implica la identificación de los controles de seguridad necesarios y la asignación de recursos adecuados para su implementación.
+
+1.4 La alineación del negocio en ciberseguridad también debe considerar la educación y concienciación de los empleados sobre la importancia de la ciberseguridad y la implicación de todas las partes interesadas en la implementación de la estrategia de ciberseguridad.
+
+1.5 En resumen, la alineación del negocio en ciberseguridad es un enfoque integral que asegura que la ciberseguridad sea parte de la planificación y la toma de decisiones del negocio, considerando los activos digitales críticos, los riesgos cibernéticos, las medidas de seguridad necesarias y la educación y concienciación de los empleados
