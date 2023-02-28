@@ -26,6 +26,8 @@ Tratamiento de los riesgos: El tratamiento de los riesgos implica la selección 
 
 Los marcos de referencia buscan alinear la gestión de TI al negocio, asegurar el cumplimiento de objetivos, la creación de valor, gestionar los riesgos, administrar el uso adecuado de los recursos y mejorar el desempeño del gobierno de TI. A continuación, se nombran algunos de los marcos de referencia que serán considerados en el diseño de marcos de gobierno y gestión de la ciberseguridad en el contexto colombiano.
 
+![image](https://user-images.githubusercontent.com/125513718/221897276-880ad886-68ae-4576-aa23-9b59efb390da.png)
+
 ## NIST
 En el año 2013 el entonces presidente de los Estados Unidos, Barack Obama emitió la orden Ejecutiva 13636 en la que se establece que es política de los Estados Unidos mejorar la seguridad y la resistencia de la infraestructura crítica de la nación y mantener un entorno cibernético que fomente la eficiencia, la innovación y la prosperidad económica al mismo tiempo que se promueve la seguridad, la confidencialidad empresarial, la privacidad y las libertades civiles. El Instituto nacional de estándares y tecnología (NIST) fue seleccionado para la tarea de desarrollar el marco porque es una agencia federal no reguladora que actúa como una fuente imparcial de datos y prácticas científicas, incluidas las prácticas de ciberseguridad. (NIST, 2018)
 
