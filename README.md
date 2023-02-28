@@ -25,7 +25,27 @@ Tratamiento de los riesgos: El tratamiento de los riesgos implica la selección 
 ## MARCO DE REFERENCIA
 
 El marco de referencia del programa de la gobernanza en ciberseguridad más conocido es el Marco de Ciberseguridad del NIST (NIST CSF, por sus siglas en inglés). El NIST CSF es un conjunto de pautas y mejores prácticas para la gestión de la ciberseguridad en una organización. Este marco proporciona una estructura común para la organización, la gestión de riesgos y la respuesta a incidentes de seguridad. El NIST CSF se compone de cinco funciones principales: identificar, proteger, detectar, responder y recuperarse.
+
 El marco de referencia del programa de la gobernanza en ciberseguridad más conocido relacionado con la norma ISO es la familia de estándares ISO 27000. La norma ISO 27000 es una serie de estándares internacionales que establece los requisitos para un sistema de gestión de seguridad de la información (SGSI). El objetivo de la norma ISO 27000 es proporcionar una guía detallada para establecer, implementar, mantener y mejorar continuamente un SGSI.
 
+Los marcos de referencia buscan alinear la gestión de TI al negocio, asegurar el cumplimiento de objetivos, la creación de valor, gestionar los riesgos, administrar el uso adecuado de los recursos y mejorar el desempeño del gobierno de TI. A continuación, se nombran algunos de los marcos de referencia que serán considerados en el diseño de marcos de gobierno y gestión de la ciberseguridad en el contexto colombiano.
 
+## NIST
+En el año 2013 el entonces presidente de los Estados Unidos, Barack Obama emitió la orden Ejecutiva 13636 en la que se establece que es política de los Estados Unidos mejorar la seguridad y la resistencia de la infraestructura crítica de la nación y mantener un entorno cibernético que fomente la eficiencia, la innovación y la prosperidad económica al mismo tiempo que se promueve la seguridad, la confidencialidad empresarial, la privacidad y las libertades civiles. El Instituto nacional de estándares y tecnología (NIST) fue seleccionado para la tarea de desarrollar el marco porque es una agencia federal no reguladora que actúa como una fuente imparcial de datos y prácticas científicas, incluidas las prácticas de ciberseguridad. (NIST, 2018)
 
+## ISO 37106
+Ciudades y comunidades sostenibles: orientación sobre el establecimiento de modelos operativos de ciudades inteligentes para comunidades sostenibles. Es una guía que brinda orientación a los líderes en ciudades y comunidades inteligentes (de los sectores público, privado y voluntario) sobre cómo desarrollar un modelo operativo abierto, colaborativo, centrado en los ciudadanos y habilitado digitalmente para su ciudad que ponga su visión de un futuro sostenible en funcionamiento (ISO, 2018a).
+
+Esta norma proporciona herramientas comprobadas que las ciudades pueden implementar al poner en práctica la visión, la estrategia y la agenda de políticas que se han desarrollado tras la adopción de ISO 37101, el sistema de gestión para el desarrollo sostenible de las comunidades. También puede ser utilizado, total o parcialmente, por ciudades que no se han comprometido a implementar el sistema de gestión ISO 37101.
+
+## ISO 37120:2018
+Desarrollo sostenible de comunidades. Indicadores para los servicios de las ciudades y la calidad de vida. Esta norma busca ayudar a las ciudades a guiar y medir la gestión del desempeño de los servicios urbanos, así como la calidad de vida de las diferentes ciudades. La norma, documenta o recoge cien indicadores categorizados en diecisiete temas sobre servicios municipales y calidad de vida: transporte, planificación urbana, alcantarillado y tratamiento de aguas residuales, suministro de agua potable, economía, educación, energía, medio ambiente, finanzas, respuesta ante fuego y emergencias, gobernanza, sanidad, ocio / espacios de recreo, seguridad ciudadana, vivienda, residuos urbanos sólidos, telecomunicaciones e innovación.
+
+## ISO 27001
+Es la norma principal de requisitos del Sistema de Gestión de Seguridad de la Información (SGSI) en donde se enumeran objetivos de control y controles que se sugieren implementar en el SGSI. 
+
+## ISO 27002
+Es una guía de buenas prácticas que describe los objetivos de control y controles recomendables en cuanto a seguridad de la información. Es la sustituta de ISO17799:2005, y que contiene 39 objetivos de control y 133 controles, agrupados en 11 dominios.
+
+## ISO 27005
+Es una guía para la gestión del riesgo de la seguridad de la información.
