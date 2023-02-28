@@ -24,14 +24,15 @@ Tratamiento de los riesgos: El tratamiento de los riesgos implica la selección 
 
 ## MARCO DE REFERENCIA
 
-El marco de referencia del programa de la gobernanza en ciberseguridad más conocido es el Marco de Ciberseguridad del NIST (NIST CSF, por sus siglas en inglés). El NIST CSF es un conjunto de pautas y mejores prácticas para la gestión de la ciberseguridad en una organización. Este marco proporciona una estructura común para la organización, la gestión de riesgos y la respuesta a incidentes de seguridad. El NIST CSF se compone de cinco funciones principales: identificar, proteger, detectar, responder y recuperarse.
-
-El marco de referencia del programa de la gobernanza en ciberseguridad más conocido relacionado con la norma ISO es la familia de estándares ISO 27000. La norma ISO 27000 es una serie de estándares internacionales que establece los requisitos para un sistema de gestión de seguridad de la información (SGSI). El objetivo de la norma ISO 27000 es proporcionar una guía detallada para establecer, implementar, mantener y mejorar continuamente un SGSI.
-
 Los marcos de referencia buscan alinear la gestión de TI al negocio, asegurar el cumplimiento de objetivos, la creación de valor, gestionar los riesgos, administrar el uso adecuado de los recursos y mejorar el desempeño del gobierno de TI. A continuación, se nombran algunos de los marcos de referencia que serán considerados en el diseño de marcos de gobierno y gestión de la ciberseguridad en el contexto colombiano.
 
 ## NIST
 En el año 2013 el entonces presidente de los Estados Unidos, Barack Obama emitió la orden Ejecutiva 13636 en la que se establece que es política de los Estados Unidos mejorar la seguridad y la resistencia de la infraestructura crítica de la nación y mantener un entorno cibernético que fomente la eficiencia, la innovación y la prosperidad económica al mismo tiempo que se promueve la seguridad, la confidencialidad empresarial, la privacidad y las libertades civiles. El Instituto nacional de estándares y tecnología (NIST) fue seleccionado para la tarea de desarrollar el marco porque es una agencia federal no reguladora que actúa como una fuente imparcial de datos y prácticas científicas, incluidas las prácticas de ciberseguridad. (NIST, 2018)
+
+El marco de referencia del programa de la gobernanza en ciberseguridad más conocido es el Marco de Ciberseguridad del NIST (NIST CSF, por sus siglas en inglés). El NIST CSF es un conjunto de pautas y mejores prácticas para la gestión de la ciberseguridad en una organización. Este marco proporciona una estructura común para la organización, la gestión de riesgos y la respuesta a incidentes de seguridad. El NIST CSF se compone de cinco funciones principales: identificar, proteger, detectar, responder y recuperarse.
+
+## ISO 27000
+El marco de referencia del programa de la gobernanza en ciberseguridad más conocido relacionado con la norma ISO es la familia de estándares ISO 27000. La norma ISO 27000 es una serie de estándares internacionales que establece los requisitos para un sistema de gestión de seguridad de la información (SGSI). El objetivo de la norma ISO 27000 es proporcionar una guía detallada para establecer, implementar, mantener y mejorar continuamente un SGSI.
 
 ## ISO 27001
 Es la norma principal de requisitos del Sistema de Gestión de Seguridad de la Información (SGSI) en donde se enumeran objetivos de control y controles que se sugieren implementar en el SGSI. 
