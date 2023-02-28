@@ -38,7 +38,7 @@ El marco de referencia del programa de la gobernanza en ciberseguridad más cono
 ## ISO 27000
 El marco de referencia del programa de la gobernanza en ciberseguridad más conocido relacionado con la norma ISO es la familia de estándares ISO 27000. La norma ISO 27000 es una serie de estándares internacionales que establece los requisitos para un sistema de gestión de seguridad de la información (SGSI). El objetivo de la norma ISO 27000 es proporcionar una guía detallada para establecer, implementar, mantener y mejorar continuamente un SGSI.
 
-![image](https://user-images.githubusercontent.com/125513718/221898124-51f9c5f8-6f7d-4579-b36a-fb447ebf5ca9.png)
+![image](https://user-images.githubusercontent.com/125513718/221898602-68a36de2-b8b7-46f1-a028-a4ce927f1d87.png)
 
 ## ISO 27001
 Es la norma principal de requisitos del Sistema de Gestión de Seguridad de la Información (SGSI) en donde se enumeran objetivos de control y controles que se sugieren implementar en el SGSI. 
