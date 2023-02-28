@@ -46,5 +46,11 @@ Es la norma principal de requisitos del Sistema de Gestión de Seguridad de la I
 ## ISO 27002
 Es una guía de buenas prácticas que describe los objetivos de control y controles recomendables en cuanto a seguridad de la información. Es la sustituta de ISO17799:2005, y que contiene 39 objetivos de control y 133 controles, agrupados en 11 dominios.
 
+![ISO-IEC-27002-2022-structure](https://user-images.githubusercontent.com/125692921/221907726-f97ef349-7290-4877-a2fc-e554f1fbae88.gif)
+
 ## ISO 27005
-Es una guía para la gestión del riesgo de la seguridad de la información.
+Es una guía para la gestión del riesgo de la seguridad de la información.![iso-27005-slide1](https://user-images.githubusercontent.com/125692921/221908476-59a8a086-f1bc-412f-a2d2-fca9c5f8678b.png)
+
+
+
+
