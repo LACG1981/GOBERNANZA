@@ -1,11 +1,16 @@
 # GOBERNANZA
 ## GESTION DE LA GOBERNANZA
 ### La estrategia de gobernanza en ciberseguridad puede incluir las siguientes acciones:
-1.1 Identificación de los riesgos y amenazas cibernéticas: Esta fase implica la identificación de los posibles riesgos y amenazas a los sistemas y datos digitales, así como las vulnerabilidades que los hacen susceptibles a ataques cibernéticos. 
+1.1 Identificación de los riesgos y amenazas cibernéticas: Esta fase implica la identificación de los posibles riesgos y amenazas a los sistemas y datos digitales, así como las vulnerabilidades que los hacen susceptibles a ataques cibernéticos.
+
 1.2 Implementación de medidas de seguridad: La implementación de medidas de seguridad adecuadas para proteger los sistemas y datos digitales, incluyendo la encriptación, la autenticación, la gestión de accesos, la monitorización y la actualización constante de software y hardware. 
+
 1.3 Gestión de incidentes: La creación de planes y protocolos de acción en caso de incidentes cibernéticos, para minimizar los daños y restaurar la normalidad de los sistemas y datos afectados. 
+
 1.4 Educación y concienciación: La educación y concienciación de los usuarios y empleados sobre la importancia de la ciberseguridad, así como la implementación de políticas de seguridad claras y coherentes. 
-1.5 Cooperación y colaboración: La colaboración y cooperación con otras organizaciones y empresas, así como con los organismos gubernamentales y reguladores pertinentes, para mejorar la seguridad cibernética y compartir información sobre las amenazas y los riesgos. 
+
+1.5 Cooperación y colaboración: La colaboración y cooperación con otras organizaciones y empresas, así como con los organismos gubernamentales y reguladores pertinentes, para mejorar la seguridad cibernética y compartir información sobre las amenazas y los riesgos.
+
 1.6 Evaluación y mejora continua: La evaluación y mejora constante de la estrategia de gobernanza en ciberseguridad para adaptarse a los cambios en el entorno cibernético y garantizar la protección de los sistemas y datos digitales.
 ![GOBERNANAZA](https://user-images.githubusercontent.com/125692852/221910502-57e1fcc2-36e6-4e4b-8503-52af9bcb8510.jpg)
 
