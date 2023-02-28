@@ -33,14 +33,6 @@ Los marcos de referencia buscan alinear la gestión de TI al negocio, asegurar e
 ## NIST
 En el año 2013 el entonces presidente de los Estados Unidos, Barack Obama emitió la orden Ejecutiva 13636 en la que se establece que es política de los Estados Unidos mejorar la seguridad y la resistencia de la infraestructura crítica de la nación y mantener un entorno cibernético que fomente la eficiencia, la innovación y la prosperidad económica al mismo tiempo que se promueve la seguridad, la confidencialidad empresarial, la privacidad y las libertades civiles. El Instituto nacional de estándares y tecnología (NIST) fue seleccionado para la tarea de desarrollar el marco porque es una agencia federal no reguladora que actúa como una fuente imparcial de datos y prácticas científicas, incluidas las prácticas de ciberseguridad. (NIST, 2018)
 
-## ISO 37106
-Ciudades y comunidades sostenibles: orientación sobre el establecimiento de modelos operativos de ciudades inteligentes para comunidades sostenibles. Es una guía que brinda orientación a los líderes en ciudades y comunidades inteligentes (de los sectores público, privado y voluntario) sobre cómo desarrollar un modelo operativo abierto, colaborativo, centrado en los ciudadanos y habilitado digitalmente para su ciudad que ponga su visión de un futuro sostenible en funcionamiento (ISO, 2018a).
-
-Esta norma proporciona herramientas comprobadas que las ciudades pueden implementar al poner en práctica la visión, la estrategia y la agenda de políticas que se han desarrollado tras la adopción de ISO 37101, el sistema de gestión para el desarrollo sostenible de las comunidades. También puede ser utilizado, total o parcialmente, por ciudades que no se han comprometido a implementar el sistema de gestión ISO 37101.
-
-## ISO 37120:2018
-Desarrollo sostenible de comunidades. Indicadores para los servicios de las ciudades y la calidad de vida. Esta norma busca ayudar a las ciudades a guiar y medir la gestión del desempeño de los servicios urbanos, así como la calidad de vida de las diferentes ciudades. La norma, documenta o recoge cien indicadores categorizados en diecisiete temas sobre servicios municipales y calidad de vida: transporte, planificación urbana, alcantarillado y tratamiento de aguas residuales, suministro de agua potable, economía, educación, energía, medio ambiente, finanzas, respuesta ante fuego y emergencias, gobernanza, sanidad, ocio / espacios de recreo, seguridad ciudadana, vivienda, residuos urbanos sólidos, telecomunicaciones e innovación.
-
 ## ISO 27001
 Es la norma principal de requisitos del Sistema de Gestión de Seguridad de la Información (SGSI) en donde se enumeran objetivos de control y controles que se sugieren implementar en el SGSI. 
 
