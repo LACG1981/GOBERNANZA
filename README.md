@@ -62,6 +62,16 @@ El marco de referencia del programa de la gobernanza en ciberseguridad más cono
 
 ## ISO 27001
 Es la norma principal de requisitos del Sistema de Gestión de Seguridad de la Información (SGSI) en donde se enumeran objetivos de control y controles que se sugieren implementar en el SGSI. 
+ISO 27001 es una norma desarrollada por ISO (organización internacional de Normalización) con el propósito de ayudar a gestionar la Seguridad de la Información en una empresa.
+
+La nomenclatura exacta de la Norma actual es ISO/IEC 27001 que es la revisión de la norma en su primera versión que fue publicada en el año 2005 como una adaptación de ISO de la norma británica BS 7799-2
+
+En este apartado tenemos más información sobre las revisiones ISO 27001.
+
+El certificado ISO 27001 le interesa a cualquier tipo de empresa sin importar su tamaño y actividad. El factor clave para decidir sobre la implantación de un sistema de gestión de la seguridad de la información radica en la importancia que los activos de información tienen dentro de una organización como elementos imprescindibles para la obtención de sus objetivos.
+
+Actualmente a nivel mundial la norma ISO 27001 es la norma de referencia para certificar la seguridad de la información en las organizaciones.  De hecho actualmente en España contamos con cerca de 800 empresas certificadas de un total de más de 33.000 certificados a nivel mundial
+
 
 ## ISO 27002
 Es una guía de buenas prácticas que describe los objetivos de control y controles recomendables en cuanto a seguridad de la información. Es la sustituta de ISO17799:2005, y que contiene 39 objetivos de control y 133 controles, agrupados en 11 dominios.
