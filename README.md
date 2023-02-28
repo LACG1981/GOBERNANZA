@@ -2,10 +2,6 @@
 ## GESTION DE LA GOBERNANZA
 ### La estrategia de gobernanza en ciberseguridad puede incluir las siguientes acciones:
 Identificación de los riesgos y amenazas cibernéticas: Esta fase implica la identificación de los posibles riesgos y amenazas a los sistemas y datos digitales, así como las vulnerabilidades que los hacen susceptibles a ataques cibernéticos. Implementación de medidas de seguridad: La implementación de medidas de seguridad adecuadas para proteger los sistemas y datos digitales, incluyendo la encriptación, la autenticación, la gestión de accesos, la monitorización y la actualización constante de software y hardware. Gestión de incidentes: La creación de planes y protocolos de acción en caso de incidentes cibernéticos, para minimizar los daños y restaurar la normalidad de los sistemas y datos afectados. Educación y concienciación: La educación y concienciación de los usuarios y empleados sobre la importancia de la ciberseguridad, así como la implementación de políticas de seguridad claras y coherentes. Cooperación y colaboración: La colaboración y cooperación con otras organizaciones y empresas, así como con los organismos gubernamentales y reguladores pertinentes, para mejorar la seguridad cibernética y compartir información sobre las amenazas y los riesgos. Evaluación y mejora continua: La evaluación y mejora constante de la estrategia de gobernanza en ciberseguridad para adaptarse a los cambios en el entorno cibernético y garantizar la protección de los sistemas y datos digitales.
-
-![GOBAR](https://user-images.githubusercontent.com/125692852/221897991-7628a131-0050-4782-811d-14732bb3cfc8.jpeg)
-
-
 ## ALINEACIÓN DEL NEGOCIO DE LA GOBERNANZA
 1.1 La alineación del negocio en ciberseguridad implica la integración de la estrategia de ciberseguridad en la estrategia general del negocio, asegurando que la seguridad cibernética se convierta en un aspecto clave de la planificación y la toma de decisiones en la organización.
 
@@ -16,9 +12,6 @@ Identificación de los riesgos y amenazas cibernéticas: Esta fase implica la id
 1.4 La alineación del negocio en ciberseguridad también debe considerar la educación y concienciación de los empleados sobre la importancia de la ciberseguridad y la implicación de todas las partes interesadas en la implementación de la estrategia de ciberseguridad.
 
 1.5 En resumen, la alineación del negocio en ciberseguridad es un enfoque integral que asegura que la ciberseguridad sea parte de la planificación y la toma de decisiones del negocio, considerando los activos digitales críticos, los riesgos cibernéticos, las medidas de seguridad necesarias y la educación y concienciación de los empleados.
-
-![GBZA](https://user-images.githubusercontent.com/125692852/221897780-e59d942e-1af9-4941-ba06-403326db9208.jpeg)
-
 
 ## PROCESO GESTIÓN DEL RIESGO:
 
@@ -40,8 +33,12 @@ En el año 2013 el entonces presidente de los Estados Unidos, Barack Obama emiti
 
 El marco de referencia del programa de la gobernanza en ciberseguridad más conocido es el Marco de Ciberseguridad del NIST (NIST CSF, por sus siglas en inglés). El NIST CSF es un conjunto de pautas y mejores prácticas para la gestión de la ciberseguridad en una organización. Este marco proporciona una estructura común para la organización, la gestión de riesgos y la respuesta a incidentes de seguridad. El NIST CSF se compone de cinco funciones principales: identificar, proteger, detectar, responder y recuperarse.
 
+![image](https://user-images.githubusercontent.com/125513718/221897959-d7db8706-06d4-4a99-9eb8-03c4a059762c.png)
+
 ## ISO 27000
 El marco de referencia del programa de la gobernanza en ciberseguridad más conocido relacionado con la norma ISO es la familia de estándares ISO 27000. La norma ISO 27000 es una serie de estándares internacionales que establece los requisitos para un sistema de gestión de seguridad de la información (SGSI). El objetivo de la norma ISO 27000 es proporcionar una guía detallada para establecer, implementar, mantener y mejorar continuamente un SGSI.
+
+![image](https://user-images.githubusercontent.com/125513718/221898124-51f9c5f8-6f7d-4579-b36a-fb447ebf5ca9.png)
 
 ## ISO 27001
 Es la norma principal de requisitos del Sistema de Gestión de Seguridad de la Información (SGSI) en donde se enumeran objetivos de control y controles que se sugieren implementar en el SGSI. 
